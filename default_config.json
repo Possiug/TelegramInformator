@@ -1,0 +1,10 @@
+{
+    "telegram":{
+        "token": "YOUR TELEGRAM BOT TOKEN",
+        "app_id": "YOUR TELEGRAM APP ID",
+        "app_hash": "YOUR TELEGRAM APP HASH"
+    },
+    "ai": {
+        "_comment": "#TODO"
+    }
+}
