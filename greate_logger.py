@@ -25,6 +25,8 @@ class Logger:
                 Graphics.reset()
             else:
                 print("Color mode disabled!")
+        else:
+            self.color_mode = color_mode
         if (time_format is not None):
             self.time_format = time_format
 
